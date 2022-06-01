@@ -1,0 +1,30 @@
+body{
+    background-color: gray;
+}
+.form{
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+}
+.divBotao{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.botao{
+    width: 100px;
+    background-color: rgb(224, 70, 70);
+    border-radius: 10px;
+}
+.inputs{
+    border-radius: 5px;
+    background-color: rgb(224, 70, 70);
+}
+.label{
+    font-size: 20px;
+    color: white;
+}
+.select{
+    border-radius: 5px;
+    background-color:rgb(224, 70, 70);
+}
